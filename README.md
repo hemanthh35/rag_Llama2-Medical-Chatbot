@@ -32,7 +32,7 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/langchain-medical-bot.git
+    [git clone https://github.com/hemanthh35/rag_Llama2-Medical-Chatbot.git
     cd langchain-medical-bot
     ```
 
